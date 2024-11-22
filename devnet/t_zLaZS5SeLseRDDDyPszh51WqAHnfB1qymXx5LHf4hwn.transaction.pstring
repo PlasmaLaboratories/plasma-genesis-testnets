@@ -1,0 +1,29 @@
+outputs {
+  address {
+    network: 2471172352
+    ledger: 3887102464
+    id {
+      value: "\003\371\201cn\031\354\223f\000\000*\362\344DY\v\321bk\276,\216/\346\235\365\253H\254jt"
+    }
+  }
+  value {
+    configProposal {
+      value {
+        key: "jsonConfig"
+        value: "{\"label\":\"genesis\",\"fEffective\":{\"numerator\":\"3\",\"denominator\":\"25\"},\"vrfLddCutoff\":15,\"vrfPrecision\":40,\"vrfBaselineDifficulty\":{\"numerator\":\"1\",\"denominator\":\"20\"},\"vrfAmplitude\":{\"numerator\":\"1\",\"denominator\":\"2\"},\"chainSelectionKLookback\":5184,\"slotDuration\":{\"seconds\":1,\"nanos\":0,\"unknownFields\":{\"fields\":{}}},\"forwardBiasedSlotWindow\":50,\"operationalPeriodsPerEpoch\":25,\"kesKeyHours\":9,\"kesKeyMinutes\":9,\"slotGapLeaderElection\":0}"
+      }
+    }
+  }
+}
+datum {
+  event {
+    schedule {
+      min: 0
+      max: 0
+      timestamp: 1732315542937
+    }
+    metadata {
+      value: ""
+    }
+  }
+}

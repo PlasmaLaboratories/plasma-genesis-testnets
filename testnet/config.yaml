@@ -1,0 +1,5 @@
+node:
+  big-bang:
+    type: public
+    genesis-id: b_D4mDZfkcbP2Eenu2Rs6q1x8gigKy7wvbth4J727kJohe
+    source-path: https://raw.githubusercontent.com/PlasmaLaboratories/plasma-genesis-testnets/main/testnet
